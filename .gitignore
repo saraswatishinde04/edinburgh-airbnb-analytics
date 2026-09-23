@@ -1,0 +1,20 @@
+# Raw & processed data (large / third-party licensed — do not commit)
+data/raw/
+data/processed/
+*.csv
+
+# Tableau
+*.hyper
+*.tde
+*.tbm
+~$*.twb
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# MySQL Workbench temp
+*.mwb.bak
+*.autosave.sql

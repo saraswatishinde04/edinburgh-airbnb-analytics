@@ -1,0 +1,9 @@
+Place your packaged Tableau workbook here as:
+
+    Edinburgh_Airbnb_Dashboard.twbx
+
+Once added, delete this placeholder file. The three dashboard tabs referenced
+in README.md correspond to:
+  - Dashboard (Overview)
+  - Area Overview
+  - Host Overview
