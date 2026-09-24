@@ -6,7 +6,7 @@
 | **Document version** | 1.0 |
 | **Status** | Final |
 | **Prepared for** | Market Analytics / Strategy Stakeholders |
-| **Prepared by** | [Your Name] |
+| **Prepared by** | Saraswati Shinde |
 | **Date** | September 2026 |
 
 ---
